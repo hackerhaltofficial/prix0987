@@ -1,8 +1,5 @@
 ![Hacker Halt Banner(1)](https://github.com/prix0987/prix0987/assets/102820435/6d08e1fd-92f7-4133-ab1a-8c307bcd9450)# 💫 About Me:
 Abhishek (Trainer) Aswal<br>Cyber Security Trainer | Certified Ethical Hacker Certification (CEH) | Python | WAPT | CCNA | Bug Bounty | CFI <br>YouTube Content Creator<br>Red Teaming  <br><br>
-### 😂 Youtube Banner
-<img src='![image](https://github.com/prix0987/prix0987/assets/102820435/e483f19e-a62c-4dc3-8ff0-ff1e5e70f6f1)' style="height: 400px;"/>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/fNduHvJFhA) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-aswal-69696921b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hackerhalt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hacker_halt009) 
